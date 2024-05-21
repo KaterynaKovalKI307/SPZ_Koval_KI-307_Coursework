@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomorrow\\Desktop\\SPZ_COURSEWORK_KOVAL_KI_307\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EEEC80-B092-48AF-9520-EF6D7C4ED291}|SPZ Course\\SPZ Course.vcxproj|C:\\Users\\tomorrow\\Desktop\\SPZ_COURSEWORK_KOVAL_KI_307\\SPZ Course\\SPZ Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7EEEC80-B092-48AF-9520-EF6D7C4ED291}|SPZ Course\\SPZ Course.vcxproj|solutionrelative:SPZ Course\\SPZ Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPZ Course.cpp",
+              "DocumentMoniker": "C:\\Users\\tomorrow\\Desktop\\SPZ_COURSEWORK_KOVAL_KI_307\\SPZ Course\\SPZ Course.cpp",
+              "RelativeDocumentMoniker": "SPZ Course\\SPZ Course.cpp",
+              "ToolTip": "C:\\Users\\tomorrow\\Desktop\\SPZ_COURSEWORK_KOVAL_KI_307\\SPZ Course\\SPZ Course.cpp",
+              "RelativeToolTip": "SPZ Course\\SPZ Course.cpp",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAmwM8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T18:34:12.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

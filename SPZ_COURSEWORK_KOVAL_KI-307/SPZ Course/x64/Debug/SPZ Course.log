@@ -1,0 +1,4 @@
+﻿  SPZ Course.cpp
+C:\Users\tomorrow\Desktop\SPZ_COURSEWORK_KOVAL_KI_307\SPZ Course\SPZ Course.cpp(190,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sqlite3.c
+  SPZ Course.vcxproj -> C:\Users\tomorrow\Desktop\SPZ_COURSEWORK_KOVAL_KI_307\x64\Debug\SPZ Course.exe
